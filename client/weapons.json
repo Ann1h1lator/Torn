@@ -335,7 +335,7 @@
 			"ammo":2,
 			"level":9,
 			"type":"Blast",
-			"bot":true,
+			"bot":false,
 			"enabled":true
 		},
 		"26":{
